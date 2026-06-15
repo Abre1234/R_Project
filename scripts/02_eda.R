@@ -2,7 +2,6 @@
 # EXPLORATORY DATA ANALYSIS (EDA)
 # ==============================================================================
 # Purpose: Explore patterns and relationships in cleaned data
-# Author: Your Name
 # ==============================================================================
 
 # Load packages
