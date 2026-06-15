@@ -101,7 +101,7 @@ This project demonstrates:
 
 **Your Name**  
 Data Analyst | R Programming | Statistical Analysis  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/Abre1234) | [GitHub](https://github.com/Abre1234)
 
 ## 📝 License
 
