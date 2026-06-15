@@ -2,7 +2,7 @@
 # DATA CLEANING SCRIPT
 # ==============================================================================
 # Purpose: Clean and prepare agricultural data for analysis
-# Author: Your Name
+
 # ==============================================================================
 
 # Load packages
