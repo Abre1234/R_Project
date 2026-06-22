@@ -1,0 +1,5 @@
+region,n_farms,avg_yield,avg_fertilizer,avg_income
+East,121,4.95,102,2993
+North,140,4.89,90.88,3019
+South,132,5.08,103.9,2967
+West,107,5.08,87.79,3037

@@ -1,0 +1,6 @@
+check,result,status
+Total records,500,✓
+Complete records,500,✓
+Duplicate IDs,0,✓
+Negative values,0,✓
+Missing values,0,✓
