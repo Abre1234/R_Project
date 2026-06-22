@@ -321,7 +321,7 @@ MIT License - feel free to use this project as a template for your own portfolio
 
 ## 👤 Author
 
-**Abrar Awayu**  
+**Abraraw Ayal**  
 Data Analyst | R Programming | Statistical Analysis  
 
 - 📧 Email: abrarawayu@gmail.com
